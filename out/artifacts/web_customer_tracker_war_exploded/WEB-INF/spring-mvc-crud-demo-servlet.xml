@@ -31,7 +31,7 @@
 	<bean id="myDataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource"
           destroy-method="close">
         <property name="driverClass" value="com.mysql.jdbc.Driver" />
-        <property name="jdbcUrl" value="jdbc:mysql://localhost:3306/web_customer_tracker?serverTimezone=Europe/Warsaw" />
+        <property name="jdbcUrl" value="jdbc:mysql://localhost:3306/web_customer_tracker?serverTimezone=Europe/Warsaw"/>
         <property name="user" value="springstudent" />
         <property name="password" value="springstudent" /> 
 
@@ -62,6 +62,8 @@
     
     <!-- Step 4: Enable configuration of transactional behavior based on annotations -->
 	<tx:annotation-driven transaction-manager="myTransactionManager" />
+
+	<mvc:resources mapping="/resources/**" location="/resources/" />
 
 </beans>
 
