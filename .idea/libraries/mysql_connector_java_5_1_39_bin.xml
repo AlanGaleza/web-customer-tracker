@@ -40,6 +40,7 @@
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-webflux-5.0.7.RELEASE.jar!/" />
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-webmvc-5.0.7.RELEASE.jar!/" />
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-websocket-5.0.7.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/lombok.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/spring-aop-5.0.7.RELEASE-javadoc.jar!/" />

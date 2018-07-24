@@ -10,8 +10,6 @@ import java.io.PrintWriter;
 import java.sql.Connection;
 import java.sql.DriverManager;
 
-import java.sql.*;
-
 @WebServlet(name = "TestDbServlet")
 public class TestDbServlet extends HttpServlet {
 
@@ -29,7 +27,7 @@ public class TestDbServlet extends HttpServlet {
         try {
             PrintWriter out = response.getWriter();
 
-            out.println("connecting to databse: " + jdbcUrl);
+            out.println("connecting to database: " + jdbcUrl);
 
             Class.forName(driver);
 
