@@ -1,0 +1,6 @@
+#
+#Tue Jul 24 18:30:28 CEST 2018
+com.luv2code.springdemo.entity.Customer=javax.persistence.Entity,javax.persistence.Table
+com.luv2code.springdemo.controller.CustomerController=org.springframework.stereotype.Component
+com.luv2code.springdemo.dao.CustomerDAOImpl=org.springframework.stereotype.Component
+com.luv2code.testdb.TestDbServlet=javax.servlet.annotation.WebServlet

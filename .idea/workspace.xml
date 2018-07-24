@@ -7,21 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5cc79396-767a-4041-b9bd-e4af484b5a14" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/controller/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/dao/CustomerDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/dao/CustomerDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/entity/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/lombok.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/view/list-customers.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_39_bin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_39_bin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_customer_tracker_war_exploded/WEB-INF/classes/com/testdb/TestDbServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_customer_tracker_war_exploded/WEB-INF/spring-mvc-crud-demo-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/web_customer_tracker_war_exploded/WEB-INF/spring-mvc-crud-demo-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/web-customer-tracker/com/testdb/TestDbServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luv2code/testdb/TestDbServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/testdb/TestDbServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/view/list-customers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/view/list-customers.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +32,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomerDAO.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CustomerDAO.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/dao/CustomerDAO.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -87,22 +74,20 @@
       <file leaf-file-name="CustomerController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/controller/CustomerController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+            <state relative-caret-position="382">
+              <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list-customers.jsp" pinned="false" current-in-tab="false">
+      <file leaf-file-name="list-customers.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/view/list-customers.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            <state relative-caret-position="280">
+              <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -166,13 +151,13 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/testdb/TestDbServlet.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/spring-mvc-crud-demo-servlet.xml" />
-        <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/controller/CustomerController.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/view/list-customers.jsp" />
         <option value="$PROJECT_DIR$/web/index.jsp" />
         <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/entity/Customer.java" />
         <option value="$PROJECT_DIR$/src/com/luv2code/testdb/TestDbServlet.java" />
         <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/dao/CustomerDAOImpl.java" />
         <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/dao/CustomerDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/luv2code/springdemo/controller/CustomerController.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/view/list-customers.jsp" />
       </list>
     </option>
   </component>
@@ -228,6 +213,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="luv2code" type="462c0819:PsiDirectoryNode" />
               <item name="springdemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-customer-tracker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-customer-tracker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="luv2code" type="462c0819:PsiDirectoryNode" />
+              <item name="springdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="web-customer-tracker" type="b2602c69:ProjectViewProjectNode" />
@@ -400,12 +393,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532442954176</updated>
-      <workItem from="1532442959443" duration="6170000" />
+      <workItem from="1532442959443" duration="6827000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6170000" />
+    <option name="totallyTimeSpent" value="6827000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -429,10 +422,10 @@
       <window_info id="Image Layers" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32960895" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32960895" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32960895" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.72833335" visible="true" weight="0.25" />
       <window_info id="Web" sideWeight="0.27166668" side_tool="true" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -466,29 +459,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/controller/CustomerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/view/list-customers.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -540,6 +514,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/luv2code/springdemo/controller/CustomerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/view/list-customers.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
         </state>
       </provider>
     </entry>
