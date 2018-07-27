@@ -1,5 +1,5 @@
 #
-#Fri Jul 27 17:28:35 CEST 2018
+#Fri Jul 27 18:17:03 CEST 2018
 com.luv2code.springdemo.entity.Customer=javax.persistence.Entity,javax.persistence.Table
 com.luv2code.springdemo.controller.CustomerController=org.springframework.stereotype.Component
 com.luv2code.springdemo.service.CustomerServiceImpl=org.springframework.stereotype.Component
